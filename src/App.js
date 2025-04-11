@@ -216,7 +216,7 @@ const InvestmentCalculator = () => {
           <input
             type="number"
             value={weeksToInvest}
-            onChange={(e) => setWeeksToInvest(Math.max(1, Number(e.target.value)))}
+            onChange={(e) => setWeeksToInvest(Number(e.target.value))}
             className="border rounded p-2 w-full"
           />
         </div>
