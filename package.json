@@ -2,7 +2,7 @@
   "name": "investment-calculator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Iron-Stark.github.io/investment-calculator",
+  "homepage": "https://iron-stark.github.io/investment-calculator/",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
